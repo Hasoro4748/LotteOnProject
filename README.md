@@ -7,9 +7,8 @@
 ## 🛠️ 프로젝트 개요
 
 ### 📋 프로젝트 소개
-
-롯데e-커머스에서 실제 개발하는 있는 MSA기반으로 쇼핑몰을 제작하는 프로젝트입니다.
-자바 및 스프링 프레임워크를 이용하여 쇼핑몰에 필요한 기능들을 추가하며 쇼핑몰을 구축하였습니다.
+- 롯데e-커머스에서 실제 개발하는 있는 MSA기반으로 쇼핑몰을 제작하는 프로젝트입니다.
+- 자바 및 스프링 프레임워크를 이용하여 쇼핑몰에 필요한 기능들을 추가하며 쇼핑몰을 구축하였습니다.
 ---
 
 ### 👨‍💻 개발 인원 및 기간
@@ -31,11 +30,11 @@
 
 ## 💻 사용 기술
 
-| **분야**       | **기술 스택**                                               |
+| **분야**       | **기술 스택**                                              |
 |----------------|------------------------------------------------------------|
-| **Frontend**   | HTML, CSS, JavaScript                                       |
-| **Backend**    | Spring Boot, JPA, QueryDSL, MyBatis                         |
-| **Database**   | MySQL                                                      |
+| **Frontend**   | HTML, CSS, JavaScript                                      |
+| **Backend**    | Spring Boot, JPA, QueryDSL, MyBatis                        |
+| **Database**   | MySQL, Redis, MongoDB                                      |
 | **Deploy**     | AWS (EC2)                                                  |
 | **Versioning** | Git                                                        |
 | **CI/CD**      | GitHub Actions                                             |
@@ -110,7 +109,7 @@ LotteOn 프로젝트에 대해 궁금한 점이 있으시면 언제든지 연락
 ---
 
 ## 시현 영상
-
+https://youtu.be/bdmHMJxx5KU?si=fmNsxOmluHeiDqsv
 [![Video Label](http://img.youtube.com/vi/bdmHMJxx5KU/0.jpg)](https://youtu.be/bdmHMJxx5KU)
 
 

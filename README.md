@@ -109,6 +109,13 @@ LotteOn 프로젝트에 대해 궁금한 점이 있으시면 언제든지 연락
 
 ---
 
+## 시현 영상
+
+[![Video Label](http://img.youtube.com/vi/bdmHMJxx5KU/0.jpg)](https://youtu.be/bdmHMJxx5KU)
+
+
+---
+
 ## 🖼️ 스크린샷
 
 ### 메인 페이지
